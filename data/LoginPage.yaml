@@ -1,0 +1,9 @@
+loginByTelephone:
+  - locator: //*[@placeholder="请输入手机号"]
+    by : xpath
+    action: sendKeys
+    text: $var1
+  - locator: //*[@placeholder="请输入密码"]
+    by : xpath
+    action: sendKeys
+    text: $var2

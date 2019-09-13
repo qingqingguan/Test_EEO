@@ -1,0 +1,6 @@
+open_browser:
+  implicitly_wait: 30
+  url: http://www.eeo.im/cn/
+restart_browser:
+  implicitly_wait: 30
+  url: http://www.eeo.im/cn/

@@ -1,0 +1,4 @@
+gotoLogin:
+  - locator: //*[@id="app"]/div/div[1]/div/ul[2]/li[2]/a
+    by: xpath
+    action: click
